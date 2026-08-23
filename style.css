@@ -39,7 +39,7 @@ nav {
     padding: 0px 13px;
     position: relative;
     z-index: 3;
-gap: 10px;
+    gap: 10px;
 }
 
 nav img {
@@ -103,7 +103,7 @@ main :nth-child(3) {
     gap: 10px;
     position: relative;
     z-index: 1;
-
+    color: white;
 
 }
 
