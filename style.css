@@ -176,6 +176,7 @@ footer select {
 .text :first-child {
     font-weight: bolder;
     font-size: 50px;
+    padding-bottom: 7px;
 }
 
 .text :last-child {
@@ -308,6 +309,7 @@ a:hover {
 
     .text :first-child {
         font-size: 30px;
+        
     }
 
     .text :nth-child(2) {
@@ -328,7 +330,7 @@ a:hover {
 
 }
 
-@media screen and (max-width:412px) {
+@media screen and (max-width:431px) {
 
     .footer {
         display: grid;
