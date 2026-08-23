@@ -136,7 +136,7 @@ main :nth-child(3) {
 }
 
 .border {
-    background-color: rgba(95, 94, 94, 0.623);
+    background-color: red;
     z-index: 20;
     height: 10px;
     width: 100%;
