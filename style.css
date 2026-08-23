@@ -330,7 +330,7 @@ a:hover {
 
 }
 
-@media screen and (max-width:431px) {
+@media screen and (max-width:500px) {
 
     .footer {
         display: grid;
