@@ -113,7 +113,7 @@ main :nth-child(3) {
     border: 1px solid rgba(126, 124, 124, 0.575);
     padding: 2px 52px 5px 5px;
     margin-bottom: 10px;
-    colour: white;
+    color: white !important;
 }
 
 .id input::placeholder {
