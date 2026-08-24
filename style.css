@@ -288,6 +288,10 @@ a:hover {
 
     }
 
+  .text{
+        text-align: center;
+    }
+    
     .asked {
         color: white;
         font-weight: bolder;
@@ -333,6 +337,7 @@ a:hover {
 
 @media screen and (max-width:500px) {
 
+  
     .footer {
         display: grid;
         grid-template-columns: 1fr;
@@ -368,6 +373,7 @@ main :first-child {
         justify-content: center;
         gap: 0px;
     }
+ 
 
     .context {
         display: flex;
