@@ -5,7 +5,7 @@ Netflix Clone 🎬
 https://rudr44301-eng.github.io/Netflix-clone/
 ## Preview
 
-![Netflix Clone Preview](images/netflix-clone preview.png)
+![Netflix Clone Preview](images/Netflix-clone preview.png)
 
 This is my first webpage, created while learning HTML and CSS as a student.
 
