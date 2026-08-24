@@ -97,6 +97,7 @@ main :nth-child(2) {
 main :nth-child(3) {
     font-weight: 500;
     padding: 21px 55px 0px 55px;
+    text-align: center;
 }
 
 .id {
@@ -348,7 +349,7 @@ a:hover {
 main :first-child {
     font-weight: bold;
     font-size: 35px;
-    padding: 54px 0px 0px 0px;
+    padding: 84px 0px 0px 0px;
     text-align: center;
 }
 
