@@ -91,11 +91,11 @@ main :first-child {
 }
 
 main :nth-child(2) {
-    font-weight: 500;
+    font-weight: 200;
 }
 
 main :nth-child(3) {
-    font-weight: 500;
+    font-weight: 200;
     padding: 21px 55px 0px 55px;
     text-align: center;
 }
@@ -183,7 +183,7 @@ footer select {
 
 .text :last-child {
     font-size: 15px;
-    font-weight: 553;
+    font-weight: 200;
     flex: 1;
     position: relative;
 }
@@ -349,7 +349,7 @@ a:hover {
 main :first-child {
     font-weight: bold;
     font-size: 35px;
-    padding: 117px 0px 0px 0px;
+    padding: 127px 0px 0px 0px;
     text-align: center;
 }
 
